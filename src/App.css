@@ -89,11 +89,6 @@
   margin-right: 12px;
 }
 
-.small-wave {
-  position: absolute;
-  top: 0%;
-  left: 33%;
-}
 
 .sun-icon {
   width: 150px;
@@ -175,6 +170,30 @@
   .text-div {
     width: 90%;
     text-align: center;
+  }
+
+  .cloud-1 {
+    left: -20%;
+  }
+
+  .cloud-2 {
+    left: -30%;
+  }
+
+  .cloud-3 {
+    left: -30%;
+  }
+
+  .sun-icon {
+    top: 7%;
+    right: -10%;
+  }
+
+  .waves-svg {
+    position: absolute;
+    bottom: -20%;
+    left: 0;
+    
   }
 }
 
