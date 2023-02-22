@@ -298,3 +298,18 @@
 .expand-tip.hidden {
     opacity: 0;
 }
+
+@media (max-width: 600px) {
+    .player-holder {
+        top: 70%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .expand-tip {
+        top: 53%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+}

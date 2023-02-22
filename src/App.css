@@ -163,4 +163,20 @@
   fill: grey;
 }
 
+@media (max-width: 600px) {
+  .options-svg {
+    display: none;
+  }
+
+  .title-text {
+    text-align: center;
+  }
+
+  .text-div {
+    width: 90%;
+    text-align: center;
+  }
+}
+
+
 
