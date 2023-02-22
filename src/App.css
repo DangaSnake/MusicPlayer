@@ -185,13 +185,13 @@
   }
 
   .sun-icon {
-    top: 7%;
-    right: -10%;
+    top: -5%;
+    right: -15%;
   }
 
   .waves-svg {
     position: absolute;
-    bottom: -20%;
+    bottom: -30%;
     left: 0;
     
   }
