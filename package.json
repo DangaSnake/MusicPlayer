@@ -9,10 +9,14 @@
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.11",
     "@types/react": "^18.0.27",
+    "@types/react-dnd": "^3.0.2",
     "@types/react-dom": "^18.0.10",
     "classnames": "^2.3.2",
+    "dragula": "^3.7.3",
     "react": "^18.2.0",
+    "react-dnd": "^16.0.1",
     "react-dom": "^18.2.0",
+    "react-dragula": "^1.1.17",
     "react-scripts": "5.0.1",
     "sass": "^1.58.0",
     "styled-components": "^5.3.6",
@@ -44,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-dragula": "^1.1.0",
     "@types/styled-components": "^5.1.26"
   }
 }
